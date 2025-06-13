@@ -21,4 +21,4 @@ It understands natural language queries, maintains conversation history, and use
 - Python 3.12, dotenv, requests
 
 ## Draft Architecture
-[Initial draft (WIP)](./screenshots/draft-architecture.png)
+![Initial draft (WIP)](./screenshots/architecture.jpg)
