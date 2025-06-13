@@ -1,2 +1,4 @@
-__MACOSX/LLMExchange
+__MACOSX/
 .env
+__pycache__
+*.egg-info/

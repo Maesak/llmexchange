@@ -1,0 +1,3 @@
+PARSER_MODEL: "mistralai/mistral-7b-instruct:free" # Or deepseek-coder:6.7b-instruct
+LLM: "llama3-8b-8192"
+FRANKFURTER_BASE_URL: "https://api.frankfurter.app/latest"
