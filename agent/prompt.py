@@ -24,26 +24,26 @@ Guidelines
 Example input 1 Convert 50 USD to INR
 Example output 1
 {
-  action convert,
-  amount 50,
-  from_currency USD,
-  to_currency INR
+  action: "convert",
+  amount: 50,
+  from_currency: "USD",
+  to_currency: "INR"
 }
 Example input 2 How much is 20 GBP
 Example output 2
 {
-  action clarify,
-  amount 20,
-  from_currency null,
-  to_currency null
+  action: "clarify",
+  amount: 20,
+  from_currency: null,
+  to_currency: null
 }
 
 Example input 3 What's the weather like today
 Example output 3
 {
-  action refuse,
-  amount null,
-  from_currency null,
-  to_currency null
+  action: "refuse",
+  amount: null,
+  from_currency: null,
+  to_currency: null
 }
 """

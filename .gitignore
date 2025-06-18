@@ -1,4 +1,5 @@
 __MACOSX/
 .env
 __pycache__
-*.egg-info/
+*.egg*
+.ipynb*
